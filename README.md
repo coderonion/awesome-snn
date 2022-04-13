@@ -27,7 +27,11 @@
 
   - [PySNN](https://github.com/BasBuller/PySNN) <img src="https://img.shields.io/github/stars/BasBuller/PySNN?style=social"/>) : Efficient Spiking Neural Network framework, built on top of PyTorch for GPU acceleration.
 
-  - [STBP-for-training-SpikingNN](https://github.com/yjwu17/STBP-for-training-SpikingNN) <img src="https://img.shields.io/github/stars/yjwu17/STBP-for-training-SpikingNN?style=social"/>) : Spatio-temporal BP for spiking neural networks.
+  - [yjwu17/STBP-for-training-SpikingNN](https://github.com/yjwu17/STBP-for-training-SpikingNN) <img src="https://img.shields.io/github/stars/yjwu17/STBP-for-training-SpikingNN?style=social"/>) : Spatio-temporal BP for spiking neural networks.
+
+  - [thiswinex/STBP-simple](https://github.com/thiswinex/STBP-simple) <img src="https://img.shields.io/github/stars/thiswinex/STBP-simple?style=social"/>) : A simple direct training implement for SNNs using Spatio-Temporal Backpropagation.
+
+  - [ZLkanyo009/STBP-train-and-compression](https://github.com/ZLkanyo009/STBP-train-and-compression) <img src="https://img.shields.io/github/stars/ZLkanyo009/STBP-train-and-compression?style=social"/>) : STBP is a way to train SNN with datasets by Backward propagation.Using this Repositories allows you to train SNNS with STBP and quantize SNNS with QAT to deploy to neuromorphological chips like Loihi and Tianjic.  
 
 
 ## Applications
