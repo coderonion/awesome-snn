@@ -1,7 +1,7 @@
 # Awesome-SNN
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome SNN(Spiking Neural Network) projects.
+This repository lists some awesome SNN(Spiking Neural Network) projects.
 
 ## Contents
 - [Awesome-SNN](#awesome-SNN)
