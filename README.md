@@ -15,6 +15,8 @@ This repository lists some awesome SNN(Spiking Neural Network) projects.
 
   - [bindsnet](https://github.com/BindsNET/bindsnet) <img src="https://img.shields.io/github/stars/BindsNET/bindsnet?style=social"/>) : Simulation of spiking neural networks (SNNs) using PyTorch.
 
+  - [Brian2](https://github.com/brian-team/brian2) <img src="https://img.shields.io/github/stars/brian-team/brian2?style=social"/>) : Brian is a free, open source simulator for spiking neural networks. 
+
   - [Spiking-Neural-Network](https://github.com/Shikhargupta/Spiking-Neural-Network) <img src="https://img.shields.io/github/stars/Shikhargupta/Spiking-Neural-Network?style=social"/>) : This is the python implementation of hardware efficient spiking neural network.
 
   - [norse](https://github.com/norse/norse) <img src="https://img.shields.io/github/stars/norse/norse?style=social"/>) : Deep learning with spiking neural networks (SNNs) in PyTorch.
@@ -34,8 +36,6 @@ This repository lists some awesome SNN(Spiking Neural Network) projects.
   - [ZLkanyo009/STBP-train-and-compression](https://github.com/ZLkanyo009/STBP-train-and-compression) <img src="https://img.shields.io/github/stars/ZLkanyo009/STBP-train-and-compression?style=social"/>) : STBP is a way to train SNN with datasets by Backward propagation.Using this Repositories allows you to train SNNS with STBP and quantize SNNS with QAT to deploy to neuromorphological chips like Loihi and Tianjic.  
 
   - [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) <img src="https://img.shields.io/github/stars/ZhejianglabNCRC/SPAIC?style=social"/>) : Spike-based artificial intelligence computing platform. "Darwin-S: A Reference Software Architecture for Brain-Inspired Computers". (**[IEEE Computer 2022](https://ieeexplore.ieee.org/abstract/document/9771131)**)
-
-  - [Brian2](https://github.com/brian-team/brian2) <img src="https://img.shields.io/github/stars/brian-team/brian2?style=social"/>) : Brian is a free, open source simulator for spiking neural networks. 
 
 
 ## Applications
