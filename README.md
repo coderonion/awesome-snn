@@ -1,19 +1,33 @@
 # Awesome-SNN
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository lists some awesome SNN(Spiking Neural Network) projects.
+🔥🔥🔥 This repository lists some awesome SNN(Spiking Neural Network) projects.
 
 ## Contents
 - [Awesome-SNN](#awesome-SNN)
+    - [Review](#review)
     - [Frameworks](#frameworks)
     - [Applications](#applications)
       - [Object Detection](#object-detection)
+      - [Object Recognition](#object-recognition)
       - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
-    - [Others](#others)
+
+## Review
+
+  - [uzh-rpg/event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources) <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources. 
+
+  - [XDUSPONGE/SNN_benchmark](https://github.com/XDUSPONGE/SNN_benchmark) <img src="https://img.shields.io/github/stars/XDUSPONGE/SNN_benchmark?style=social"/> : Spiking Neural Network Paper List. 
+
+  - [amirHossein-Ebrahimi/awesome-computational-neuro-science](https://github.com/amirHossein-Ebrahimi/awesome-computational-neuro-science) <img src="https://img.shields.io/github/stars/amirHossein-Ebrahimi/awesome-computational-neuro-science?style=social"/> : A curated list of awesome Go frameworks, libraries, and software + First class pure python Tutorial Series for Spiking Neural Networks 🔥. 
+
+  - [vvvityaaa/awesome-spiking-neural-networks](https://github.com/vvvityaaa/awesome-spiking-neural-networks) <img src="https://img.shields.io/github/stars/vvvityaaa/awesome-spiking-neural-networks?style=social"/> : A curated list of materials for Spiking Neural Networks, 3rd generation of artificial neural networks. 
+
+  - [TheAwesomeAndy/Awesome_SNN_Reads](https://github.com/TheAwesomeAndy/Awesome_SNN_Reads) <img src="https://img.shields.io/github/stars/TheAwesomeAndy/Awesome_SNN_Reads?style=social"/> : A list of little and big reads about SNN's. 
+
 
 ## Frameworks
 
-  - [bindsnet](https://github.com/BindsNET/bindsnet) <img src="https://img.shields.io/github/stars/BindsNET/bindsnet?style=social"/>) : Simulation of spiking neural networks (SNNs) using PyTorch.
+  - [BindsNET](https://github.com/BindsNET/bindsnet) <img src="https://img.shields.io/github/stars/BindsNET/bindsnet?style=social"/>) : Simulation of spiking neural networks (SNNs) using PyTorch.
 
   - [Brian2](https://github.com/brian-team/brian2) <img src="https://img.shields.io/github/stars/brian-team/brian2?style=social"/>) : Brian is a free, open source simulator for spiking neural networks. 
 
@@ -37,6 +51,24 @@ This repository lists some awesome SNN(Spiking Neural Network) projects.
 
   - [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) <img src="https://img.shields.io/github/stars/ZhejianglabNCRC/SPAIC?style=social"/>) : Spike-based artificial intelligence computing platform. "Darwin-S: A Reference Software Architecture for Brain-Inspired Computers". (**[IEEE Computer 2022](https://ieeexplore.ieee.org/abstract/document/9771131)**)
 
+  - [yhhhli/SNN_Calibration](https://github.com/yhhhli/SNN_Calibration) <img src="https://img.shields.io/github/stars/yhhhli/SNN_Calibration?style=social"/>) : Pytorch Implementation of Spiking Neural Networks Calibration, ICML 2021. "A free lunch from ANN: Towards efficient, accurate spiking neural networks calibration". (**[ICML 2021](https://proceedings.mlr.press/v139/li21d.html)**).  "Converting Artificial Neural Networks to Spiking Neural Networks via Parameter Calibration". (**[arXiv 2022](https://arxiv.org/abs/2205.10121)**)
+
+  - [gmtiddia/working_memory_spiking_network](https://github.com/gmtiddia/working_memory_spiking_network) <img src="https://img.shields.io/github/stars/gmtiddia/working_memory_spiking_network?style=social"/>) : Spiking network model and analysis scripts for the preprint "Simulations of Working Memory Spiking Networks driven by Short-Term Plasticity".
+
+  - [Brain-Cog-Lab/Conversion_Burst](https://github.com/Brain-Cog-Lab/Conversion_Burst) <img src="https://img.shields.io/github/stars/Brain-Cog-Lab/Conversion_Burst?style=social"/>) : "Efficient and Accurate Conversion of Spiking Neural Network with Burst Spikes". (**[IJCAI 2022](https://arxiv.org/abs/2204.13271)**)
+
+  - [Brain-Cog-Lab/BP-STA](https://github.com/Brain-Cog-Lab/BP-STA) <img src="https://img.shields.io/github/stars/Brain-Cog-Lab/BP-STA?style=social"/>) : "Backpropagation with Biologically Plausible Spatio-Temporal Adjustment For Training Deep Spiking Neural Networks". (**[Cell Patterns 2022](https://www.sciencedirect.com/science/article/pii/S2666389922001192)**)
+
+  - [Borzyszkowski/SNN-CMS](https://github.com/Borzyszkowski/SNN-CMS) <img src="https://img.shields.io/github/stars/Borzyszkowski/SNN-CMS?style=social"/>) : Spiking Neural Networks accelerated on the Intel Loihi chips for LHC experiments, at CMS detector. Project of the European Organization for Nuclear Research (CERN) in collaboration with Intel Labs. 
+
+  - [TJXTT/SNN2ANN](https://github.com/TJXTT/SNN2ANN) <img src="https://img.shields.io/github/stars/TJXTT/SNN2ANN?style=social"/>) : "SNN2ANN: A Fast and Memory-Efficient Training Framework for Spiking Neural Networks". (**[arXiv 2022](https://arxiv.org/abs/2206.09449)**)
+
+  - [sPyMem](https://github.com/dancasmor/sPyMem) <img src="https://img.shields.io/github/stars/dancasmor/sPyMem?style=social"/>) : sPyMem: spike-based bio-inspired memory models.
+
+  - [romainzimmer/s2net](https://github.com/romainzimmer/s2net) <img src="https://img.shields.io/github/stars/romainzimmer/s2net?style=social"/>) : Supervised Spiking Network.
+
+  - [combra-lab/snn-eeg](https://github.com/combra-lab/snn-eeg) <img src="https://img.shields.io/github/stars/combra-lab/snn-eeg?style=social"/>) : PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware. "PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware". (**[TMLR 2022](https://openreview.net/forum?id=ZPBJPGX3Bz)**)
+
 
 ## Applications
 
@@ -50,19 +82,19 @@ This repository lists some awesome SNN(Spiking Neural Network) projects.
 
     - [Dignity-ghost/PyTorch-Spiking-YOLOv3](https://github.com/Dignity-ghost/PyTorch-Spiking-YOLOv3) <img src="https://img.shields.io/github/stars/Dignity-ghost/PyTorch-Spiking-YOLOv3?style=social"/> : A modified repository based on [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) and [YOLOv3](https://pjreddie.com/darknet/yolo), which makes it suitable for VOC-dataset and YOLOv2.
 
+    - [arsalikhov/PSYCH420_final_project](https://github.com/arsalikhov/PSYCH420_final_project) <img src="https://img.shields.io/github/stars/arsalikhov/PSYCH420_final_project?style=social"/> : Goal of the project is to train an Object-Detection model using Spiking Neural Network on COCO dataset. 
+
+
+
+  - ### Object Recognition
+
+    - [freek9807/SNN-NMNIST-Object-Recognition](https://github.com/freek9807/SNN-NMNIST-Object-Recognition) <img src="https://img.shields.io/github/stars/freek9807/SNN-NMNIST-Object-Recognition?style=social"/> : An object recognition model for NMNIST larger video frame.
+
+
   - ### Adversarial Attack and Defense
 
     - [ssharmin/spikingNN-adversarial-attack](https://github.com/ssharmin/spikingNN-adversarial-attack) <img src="https://img.shields.io/github/stars/ssharmin/spikingNN-adversarial-attack?style=social"/> : FGSM and PGD adversarial attack on Spiking Neural Network (SNN).
 
 
-## Others
-
-  - [XDUSPONGE/SNN_benchmark](https://github.com/XDUSPONGE/SNN_benchmark) <img src="https://img.shields.io/github/stars/XDUSPONGE/SNN_benchmark?style=social"/> : Spiking Neural Network Paper List. 
-
-  - [amirHossein-Ebrahimi/awesome-computational-neuro-science](https://github.com/amirHossein-Ebrahimi/awesome-computational-neuro-science) <img src="https://img.shields.io/github/stars/amirHossein-Ebrahimi/awesome-computational-neuro-science?style=social"/> : A curated list of awesome Go frameworks, libraries, and software + First class pure python Tutorial Series for Spiking Neural Networks 🔥. 
-
-  - [vvvityaaa/awesome-spiking-neural-networks](https://github.com/vvvityaaa/awesome-spiking-neural-networks) <img src="https://img.shields.io/github/stars/vvvityaaa/awesome-spiking-neural-networks?style=social"/> : A curated list of materials for Spiking Neural Networks, 3rd generation of artificial neural networks. 
-
-  - [TheAwesomeAndy/Awesome_SNN_Reads](https://github.com/TheAwesomeAndy/Awesome_SNN_Reads) <img src="https://img.shields.io/github/stars/TheAwesomeAndy/Awesome_SNN_Reads?style=social"/> : A list of little and big reads about SNN's. 
 
 
