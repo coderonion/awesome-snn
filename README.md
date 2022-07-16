@@ -11,11 +11,11 @@
       - [Object Detection](#object-detection)
       - [Object Recognition](#object-recognition)
       - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
-      - [Sound Localization](#sound-localization)
+      - [Audio Processing](#audio-processing)
+      - [Event-Based Application](#event-based-application)
+
 
 ## Review
-
-  - "Advances in spike vision" : "脉冲视觉研究进展". (**[中国图象图形学报 2022](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZGTB202206006&uniplatform=NZKPT&v=1SpBEdioSKuEkmX33l-qeXciGOojmZIKjTSz1zgE9as8bUPvlctiRNCrJ4biYEi8)**)
 
   - [uzh-rpg/event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources) <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources. 
 
@@ -29,6 +29,10 @@
 
   - [shenhaibo123/SNN_arxiv_daily](https://github.com/shenhaibo123/SNN_arxiv_daily) <img src="https://img.shields.io/github/stars/shenhaibo123/SNN_arxiv_daily?style=social"/> : SNN_arxiv_daily.
 
+  - "Advances in spike vision" : "脉冲视觉研究进展". (**[中国图象图形学报 2022](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZGTB202206006&uniplatform=NZKPT&v=1SpBEdioSKuEkmX33l-qeXciGOojmZIKjTSz1zgE9as8bUPvlctiRNCrJ4biYEi8)**)
+
+
+
 
 ## Frameworks
 
@@ -40,11 +44,17 @@
 
   - [Spiking-Neural-Network](https://github.com/Shikhargupta/Spiking-Neural-Network) <img src="https://img.shields.io/github/stars/Shikhargupta/Spiking-Neural-Network?style=social"/>) : This is the python implementation of hardware efficient spiking neural network.
 
-  - [norse](https://github.com/norse/norse) <img src="https://img.shields.io/github/stars/norse/norse?style=social"/>) : Deep learning with spiking neural networks (SNNs) in PyTorch.
-
   - [spikingjelly](https://github.com/fangwei123456/spikingjelly) <img src="https://img.shields.io/github/stars/fangwei123456/spikingjelly?style=social"/>) : SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
 
+  - [norse](https://github.com/norse/norse) <img src="https://img.shields.io/github/stars/norse/norse?style=social"/>) : Deep learning with spiking neural networks (SNNs) in PyTorch.
+
+  - [snntorch](https://github.com/jeshraghian/snntorch) <img src="https://img.shields.io/github/stars/jeshraghian/snntorch?style=social"/>) : Deep and online learning with spiking neural networks in Python. "Training Spiking Neural Networks Using Lessons From Deep Learning". (**[arXiv 2021](https://arxiv.org/abs/2109.12894)**)
+
   - [snn_toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) <img src="https://img.shields.io/github/stars/NeuromorphicProcessorProject/snn_toolbox?style=social"/>) : Toolbox for converting analog to spiking neural networks (ANN to SNN), and running them in a spiking neuron simulator.
+
+  - [SpyTorch](https://github.com/fzenke/spytorch) <img src="https://img.shields.io/github/stars/fzenke/spytorch?style=social"/>) : "Surrogate gradient learning in spiking neural networks: Bringing the power of gradient-based optimization to spiking neural networks". (**[IEEE Signal Processing Magazine 2019](https://ieeexplore.ieee.org/abstract/document/8891809)**)
+
+  - [slayerPytorch](https://github.com/bamsumit/slayerPytorch) <img src="https://img.shields.io/github/stars/bamsumit/slayerPytorch?style=social"/>) : PyTorch implementation of SLAYER for training Spiking Neural Networks . "Slayer: Spike layer error reassignment in time". (**[NeurIPS 2018](https://proceedings.neurips.cc/paper/2018/hash/82f2b308c3b01637c607ce05f52a2fed-Abstract.html)**)
 
   - [Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP](https://github.com/guillaume-chevalier/Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP) <img src="https://img.shields.io/github/stars/guillaume-chevalier/Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP?style=social"/>) : Spiking Neural Network (SNN) with PyTorch : towards bridging the gap between deep learning and the human brain.  
 
@@ -90,6 +100,14 @@
 
   - [aggelen/Spayk](https://github.com/aggelen/Spayk) <img src="https://img.shields.io/github/stars/aggelen/Spayk?style=social"/>) : An open source environment for spiking neural networks. 
 
+  - [ANNarchy](https://github.com/ANNarchy/ANNarchy) <img src="https://img.shields.io/github/stars/ANNarchy/ANNarchy?style=social"/>) : "ANNarchy: a code generation approach to neural simulations on parallel hardware". (**[Frontiers in Neuroinformatics 2015](https://www.frontiersin.org/articles/10.3389/fninf.2015.00019/full)**)
+
+  - [Real-Spike](https://github.com/yfguo91/Real-Spike) <img src="https://img.shields.io/github/stars/yfguo91/Real-Spike?style=social"/>) : "Real Spike: Learning Real-valued Spikes for Spiking Neural Networks". (**[ECCV 2022]**)
+
+  - [Spike-Element-Wise-ResNet](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) <img src="https://img.shields.io/github/stars/fangwei123456/Spike-Element-Wise-ResNet?style=social"/>) : "Deep residual learning in spiking neural networks". (**[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)**)
+
+  - [cuSNN](https://github.com/tudelft/cuSNN) <img src="https://img.shields.io/github/stars/tudelft/cuSNN?style=social"/>) : Spiking Neural Networks in C++ with strong GPU acceleration through CUDA. "Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception". (**[TPAMI 2020](https://ieeexplore.ieee.org/abstract/document/8660483/)**)
+
 
 
 
@@ -117,12 +135,23 @@
     - [freek9807/SNN-NMNIST-Object-Recognition](https://github.com/freek9807/SNN-NMNIST-Object-Recognition) <img src="https://img.shields.io/github/stars/freek9807/SNN-NMNIST-Object-Recognition?style=social"/> : An object recognition model for NMNIST larger video frame.
 
 
+
   - ### Adversarial Attack and Defense
 
     - [ssharmin/spikingNN-adversarial-attack](https://github.com/ssharmin/spikingNN-adversarial-attack) <img src="https://img.shields.io/github/stars/ssharmin/spikingNN-adversarial-attack?style=social"/> : FGSM and PGD adversarial attack on Spiking Neural Network (SNN).
 
 
 
-  - ### Sound Localization
+  - ### Audio Processing
 
     - [comob-project/snn-sound-localization](https://github.com/comob-project/snn-sound-localization) <img src="https://img.shields.io/github/stars/comob-project/snn-sound-localization?style=social"/> : Training spiking neural networks for sound localization.
+
+    - [pyNAVIS](https://github.com/jpdominguez/pyNAVIS) <img src="https://img.shields.io/github/stars/jpdominguez/pyNAVIS?style=social"/>) : "PyNAVIS: An open-source cross-platform software for spike-based neuromorphic audio information processing". (**[Neurocomputing 2021](https://www.sciencedirect.com/science/article/abs/pii/S0925231221005130)**)
+
+
+
+  - ### Event-Based Application
+
+    - [uzh-rpg/snn_angular_velocity](https://github.com/uzh-rpg/snn_angular_velocity) <img src="https://img.shields.io/github/stars/uzh-rpg/snn_angular_velocity?style=social"/>) : "Event-Based Angular Velocity Regression with Spiking Networks". (**[ICRA 2020](https://ieeexplore.ieee.org/abstract/document/9197133)**)
+
+
