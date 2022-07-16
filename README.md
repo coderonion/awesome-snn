@@ -11,6 +11,7 @@
       - [Object Detection](#object-detection)
       - [Object Recognition](#object-recognition)
       - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
+      - [Sound Localization](#sound-localization)
 
 ## Review
 
@@ -81,7 +82,15 @@
 
   - [synsense/rockpool](https://github.com/synsense/rockpool) <img src="https://img.shields.io/github/stars/synsense/rockpool?style=social"/>) : A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware. 
 
-  - [Sinabs](https://github.com/synsense/sinabs) <img src="https://img.shields.io/github/stars/synsense/sinabs?style=social"/>) :Spiking neural network library based on PyTorch.  
+  - [Sinabs](https://github.com/synsense/sinabs) <img src="https://img.shields.io/github/stars/synsense/sinabs?style=social"/>) : Spiking neural network library based on PyTorch.  
+
+  - [MungoMeng/Spiking-Inception](https://github.com/MungoMeng/Spiking-Inception) <img src="https://img.shields.io/github/stars/MungoMeng/Spiking-Inception?style=social"/>) : A Spiking Inception architecture for unsupervised Spiking Neural Networks (SNNs). "High-parallelism Inception-like Spiking Neural Networks for Unsupervised Feature Learning". (**[Neurocomputing 2021](https://www.sciencedirect.com/science/article/abs/pii/S0925231221002733)**). "Spiking Inception Module for Multi-layer Unsupervised Spiking Neural Networks". (**[IJCNN 2020](https://ieeexplore.ieee.org/abstract/document/9207161)**).
+
+  - [BioLCNet](https://github.com/Singular-Brain/BioLCNet) <img src="https://img.shields.io/github/stars/Singular-Brain/BioLCNet?style=social"/>) : "BioLCNet: Reward-modulated Locally Connected Spiking Neural Networks". (**[arXiv 2021](https://arxiv.org/abs/2109.05539)**)
+
+  - [aggelen/Spayk](https://github.com/aggelen/Spayk) <img src="https://img.shields.io/github/stars/aggelen/Spayk?style=social"/>) : An open source environment for spiking neural networks. 
+
+
 
 
 
@@ -99,6 +108,8 @@
 
     - [arsalikhov/PSYCH420_final_project](https://github.com/arsalikhov/PSYCH420_final_project) <img src="https://img.shields.io/github/stars/arsalikhov/PSYCH420_final_project?style=social"/> : Goal of the project is to train an Object-Detection model using Spiking Neural Network on COCO dataset. 
 
+    - [loiccordone/object-detection-with-spiking-neural-networks](https://github.com/loiccordone/object-detection-with-spiking-neural-networks) <img src="https://img.shields.io/github/stars/loiccordone/object-detection-with-spiking-neural-networks?style=social"/>) : "Object Detection with Spiking Neural Networks on Automotive Event Data". (**[IJCNN 2022](https://arxiv.org/abs/2205.04339)**)
+
 
 
   - ### Object Recognition
@@ -112,4 +123,6 @@
 
 
 
+  - ### Sound Localization
 
+    - [comob-project/snn-sound-localization](https://github.com/comob-project/snn-sound-localization) <img src="https://img.shields.io/github/stars/comob-project/snn-sound-localization?style=social"/> : Training spiking neural networks for sound localization.
