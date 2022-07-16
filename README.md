@@ -14,6 +14,8 @@
 
 ## Review
 
+  - "Advances in spike vision" : "脉冲视觉研究进展". (**[中国图象图形学报 2022](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZGTB202206006&uniplatform=NZKPT&v=1SpBEdioSKuEkmX33l-qeXciGOojmZIKjTSz1zgE9as8bUPvlctiRNCrJ4biYEi8)**)
+
   - [uzh-rpg/event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources) <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources. 
 
   - [XDUSPONGE/SNN_benchmark](https://github.com/XDUSPONGE/SNN_benchmark) <img src="https://img.shields.io/github/stars/XDUSPONGE/SNN_benchmark?style=social"/> : Spiking Neural Network Paper List. 
@@ -24,12 +26,16 @@
 
   - [TheAwesomeAndy/Awesome_SNN_Reads](https://github.com/TheAwesomeAndy/Awesome_SNN_Reads) <img src="https://img.shields.io/github/stars/TheAwesomeAndy/Awesome_SNN_Reads?style=social"/> : A list of little and big reads about SNN's. 
 
+  - [shenhaibo123/SNN_arxiv_daily](https://github.com/shenhaibo123/SNN_arxiv_daily) <img src="https://img.shields.io/github/stars/shenhaibo123/SNN_arxiv_daily?style=social"/> : SNN_arxiv_daily.
+
 
 ## Frameworks
 
   - [BindsNET](https://github.com/BindsNET/bindsnet) <img src="https://img.shields.io/github/stars/BindsNET/bindsnet?style=social"/>) : Simulation of spiking neural networks (SNNs) using PyTorch.
 
-  - [Brian2](https://github.com/brian-team/brian2) <img src="https://img.shields.io/github/stars/brian-team/brian2?style=social"/>) : Brian is a free, open source simulator for spiking neural networks. 
+  - [Brian2](https://github.com/brian-team/brian2) <img src="https://img.shields.io/github/stars/brian-team/brian2?style=social"/>) : Brian is a free, open source simulator for spiking neural networks. "Brian 2, an intuitive and efficient neural simulator". (**[Elife 2019](https://elifesciences.org/articles/47314)**)
+
+  - [Brian2CUDA](https://github.com/brian-team/brian2cuda) <img src="https://img.shields.io/github/stars/brian-team/brian2cuda?style=social"/>) : A brian2 extension to simulate spiking neural networks on GPUs. "Brian2CUDA: flexible and efficient simulation of spiking neural network models on GPUs". (**[Frontiers in Neuroinformatics 2022](https://www.frontiersin.org/articles/10.3389/fninf.2022.883700/abstract14)**)
 
   - [Spiking-Neural-Network](https://github.com/Shikhargupta/Spiking-Neural-Network) <img src="https://img.shields.io/github/stars/Shikhargupta/Spiking-Neural-Network?style=social"/>) : This is the python implementation of hardware efficient spiking neural network.
 
@@ -68,6 +74,15 @@
   - [romainzimmer/s2net](https://github.com/romainzimmer/s2net) <img src="https://img.shields.io/github/stars/romainzimmer/s2net?style=social"/>) : Supervised Spiking Network.
 
   - [combra-lab/snn-eeg](https://github.com/combra-lab/snn-eeg) <img src="https://img.shields.io/github/stars/combra-lab/snn-eeg?style=social"/>) : PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware. "PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware". (**[TMLR 2022](https://openreview.net/forum?id=ZPBJPGX3Bz)**)
+
+  - [SpikingSIM](https://github.com/Evin-X/SpikingSIM) <img src="https://img.shields.io/github/stars/Evin-X/SpikingSIM?style=social"/>) : "SpikingSIM: A Bio-inspired Spiking Simulator". (**[ISCAS 2022]**)
+
+  - [Mathorga/behema](https://github.com/Mathorga/behema) <img src="https://img.shields.io/github/stars/Mathorga/behema?style=social"/>) : Spiking neural network implementation inspired by cellular automata for efficiency.
+
+  - [synsense/rockpool](https://github.com/synsense/rockpool) <img src="https://img.shields.io/github/stars/synsense/rockpool?style=social"/>) : A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware. 
+
+  - [Sinabs](https://github.com/synsense/sinabs) <img src="https://img.shields.io/github/stars/synsense/sinabs?style=social"/>) :Spiking neural network library based on PyTorch.  
+
 
 
 ## Applications
