@@ -126,7 +126,7 @@
 
     - [arsalikhov/PSYCH420_final_project](https://github.com/arsalikhov/PSYCH420_final_project) <img src="https://img.shields.io/github/stars/arsalikhov/PSYCH420_final_project?style=social"/> : Goal of the project is to train an Object-Detection model using Spiking Neural Network on COCO dataset. 
 
-    - [loiccordone/object-detection-with-spiking-neural-networks](https://github.com/loiccordone/object-detection-with-spiking-neural-networks) <img src="https://img.shields.io/github/stars/loiccordone/object-detection-with-spiking-neural-networks?style=social"/>) : "Object Detection with Spiking Neural Networks on Automotive Event Data". (**[IJCNN 2022](https://arxiv.org/abs/2205.04339)**)
+    - [loiccordone/object-detection-with-spiking-neural-networks](https://github.com/loiccordone/object-detection-with-spiking-neural-networks) <img src="https://img.shields.io/github/stars/loiccordone/object-detection-with-spiking-neural-networks?style=social"/> : "Object Detection with Spiking Neural Networks on Automotive Event Data". (**[IJCNN 2022](https://arxiv.org/abs/2205.04339)**)
 
 
 
@@ -146,12 +146,12 @@
 
     - [comob-project/snn-sound-localization](https://github.com/comob-project/snn-sound-localization) <img src="https://img.shields.io/github/stars/comob-project/snn-sound-localization?style=social"/> : Training spiking neural networks for sound localization.
 
-    - [pyNAVIS](https://github.com/jpdominguez/pyNAVIS) <img src="https://img.shields.io/github/stars/jpdominguez/pyNAVIS?style=social"/>) : "PyNAVIS: An open-source cross-platform software for spike-based neuromorphic audio information processing". (**[Neurocomputing 2021](https://www.sciencedirect.com/science/article/abs/pii/S0925231221005130)**)
+    - [pyNAVIS](https://github.com/jpdominguez/pyNAVIS) <img src="https://img.shields.io/github/stars/jpdominguez/pyNAVIS?style=social"/> : "PyNAVIS: An open-source cross-platform software for spike-based neuromorphic audio information processing". (**[Neurocomputing 2021](https://www.sciencedirect.com/science/article/abs/pii/S0925231221005130)**)
 
 
 
   - ### Event-Based Application
 
-    - [uzh-rpg/snn_angular_velocity](https://github.com/uzh-rpg/snn_angular_velocity) <img src="https://img.shields.io/github/stars/uzh-rpg/snn_angular_velocity?style=social"/>) : "Event-Based Angular Velocity Regression with Spiking Networks". (**[ICRA 2020](https://ieeexplore.ieee.org/abstract/document/9197133)**)
+    - [uzh-rpg/snn_angular_velocity](https://github.com/uzh-rpg/snn_angular_velocity) <img src="https://img.shields.io/github/stars/uzh-rpg/snn_angular_velocity?style=social"/> : "Event-Based Angular Velocity Regression with Spiking Networks". (**[ICRA 2020](https://ieeexplore.ieee.org/abstract/document/9197133)**)
 
 
