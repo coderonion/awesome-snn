@@ -5,14 +5,14 @@
 
 ## Contents
 - [Awesome-SNN](#awesome-SNN)
-    - [Review](#review)
-    - [Frameworks](#frameworks)
-    - [Applications](#applications)
-      - [Object Detection](#object-detection)
-      - [Object Recognition](#object-recognition)
-      - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
-      - [Audio Processing](#audio-processing)
-      - [Event-Based Application](#event-based-application)
+  - [Review](#review)
+  - [Frameworks](#frameworks)
+  - [Applications](#applications)
+    - [Object Detection](#object-detection)
+    - [Object Recognition](#object-recognition)
+    - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
+    - [Audio Processing](#audio-processing)
+    - [Event-Based Application](#event-based-application)
 
 ## Review
 
@@ -33,7 +33,7 @@
 
 ## Frameworks
 
-  - [智脉(BrainCog)](https://github.com/BrainCog-X/Brain-Cog) <img src="https://img.shields.io/github/stars/BrainCog-X/Brain-Cog?style=social"/> : BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. More information on braincog can be found on its homepage http://www.brain-cog.network/. 类脑认知智能引擎“智脉 (BrainCog)”是一个基于类脑脉冲神经网络的人工智能与脑模拟计算平台，用于在多个尺度上建模、模拟不同物种的认知大脑，并受此启发实现类脑人工智能。 "BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation". (**[arXiv 2022](https://arxiv.org/abs/2207.08533)**)
+  - [智脉(BrainCog)](https://github.com/BrainCog-X/Brain-Cog) <img src="https://img.shields.io/github/stars/BrainCog-X/Brain-Cog?style=social"/> : BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. More information on braincog can be found on its homepage http://www.brain-cog.network/. "BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation". (**[arXiv 2022](https://arxiv.org/abs/2207.08533)**)
 
   - [BindsNET](https://github.com/BindsNET/bindsnet) <img src="https://img.shields.io/github/stars/BindsNET/bindsnet?style=social"/> : Simulation of spiking neural networks (SNNs) using PyTorch.
 
