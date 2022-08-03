@@ -14,7 +14,6 @@
       - [Audio Processing](#audio-processing)
       - [Event-Based Application](#event-based-application)
 
-
 ## Review
 
   - [uzh-rpg/event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources) <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources. 
@@ -29,9 +28,7 @@
 
   - [shenhaibo123/SNN_arxiv_daily](https://github.com/shenhaibo123/SNN_arxiv_daily) <img src="https://img.shields.io/github/stars/shenhaibo123/SNN_arxiv_daily?style=social"/> : SNN_arxiv_daily.
 
-  - "Advances in spike vision" : "脉冲视觉研究进展". (**[中国图象图形学报 2022](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZGTB202206006&uniplatform=NZKPT&v=1SpBEdioSKuEkmX33l-qeXciGOojmZIKjTSz1zgE9as8bUPvlctiRNCrJ4biYEi8)**)
-
-
+  - "Advances in spike vision". "脉冲视觉研究进展". (**[中国图象图形学报 2022](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZGTB202206006&uniplatform=NZKPT&v=1SpBEdioSKuEkmX33l-qeXciGOojmZIKjTSz1zgE9as8bUPvlctiRNCrJ4biYEi8)**)
 
 
 ## Frameworks
@@ -110,8 +107,11 @@
 
   - [cuSNN](https://github.com/tudelft/cuSNN) <img src="https://img.shields.io/github/stars/tudelft/cuSNN?style=social"/> : Spiking Neural Networks in C++ with strong GPU acceleration through CUDA. "Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception". (**[TPAMI 2020](https://ieeexplore.ieee.org/abstract/document/8660483/)**)
 
+  - [nengo/pytorch-spiking](https://github.com/nengo/pytorch-spiking) <img src="https://img.shields.io/github/stars/nengo/pytorch-spiking?style=social"/> : Spiking neuron integration for PyTorch. www.nengo.ai/pytorch-spiking/.
 
+  - [zhouyanasd/DL-NC](https://github.com/zhouyanasd/DL-NC) <img src="https://img.shields.io/github/stars/zhouyanasd/DL-NC?style=social"/> : spiking-neural-networks.
 
+  - [ShahriarSS/Spyker](https://github.com/ShahriarSS/Spyker) <img src="https://img.shields.io/github/stars/ShahriarSS/Spyker?style=social"/> : High-performance Spiking Neural Networks Library Written From Scratch with C++ and Python Interfaces. 
 
 
 ## Applications
@@ -131,17 +131,14 @@
     - [loiccordone/object-detection-with-spiking-neural-networks](https://github.com/loiccordone/object-detection-with-spiking-neural-networks) <img src="https://img.shields.io/github/stars/loiccordone/object-detection-with-spiking-neural-networks?style=social"/> : "Object Detection with Spiking Neural Networks on Automotive Event Data". (**[IJCNN 2022](https://arxiv.org/abs/2205.04339)**)
 
 
-
   - ### Object Recognition
 
     - [freek9807/SNN-NMNIST-Object-Recognition](https://github.com/freek9807/SNN-NMNIST-Object-Recognition) <img src="https://img.shields.io/github/stars/freek9807/SNN-NMNIST-Object-Recognition?style=social"/> : An object recognition model for NMNIST larger video frame.
 
 
-
   - ### Adversarial Attack and Defense
 
     - [ssharmin/spikingNN-adversarial-attack](https://github.com/ssharmin/spikingNN-adversarial-attack) <img src="https://img.shields.io/github/stars/ssharmin/spikingNN-adversarial-attack?style=social"/> : FGSM and PGD adversarial attack on Spiking Neural Network (SNN).
-
 
 
   - ### Audio Processing
