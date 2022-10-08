@@ -91,7 +91,7 @@
 
   - [combra-lab/snn-eeg](https://github.com/combra-lab/snn-eeg) <img src="https://img.shields.io/github/stars/combra-lab/snn-eeg?style=social"/> : PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware. "PyTorch and Loihi implementation of the Spiking Neural Network for decoding EEG on Neuromorphic Hardware". (**[TMLR 2022](https://openreview.net/forum?id=ZPBJPGX3Bz)**)
 
-  - [SpikingSIM](https://github.com/Evin-X/SpikingSIM) <img src="https://img.shields.io/github/stars/Evin-X/SpikingSIM?style=social"/> : "SpikingSIM: A Bio-inspired Spiking Simulator". (**[ISCAS 2022]**)
+  - [SpikingSIM](https://github.com/Evin-X/SpikingSIM) <img src="https://img.shields.io/github/stars/Evin-X/SpikingSIM?style=social"/> : "SpikingSIM: A Bio-inspired Spiking Simulator". (ISCAS 2022)
 
   - [Mathorga/behema](https://github.com/Mathorga/behema) <img src="https://img.shields.io/github/stars/Mathorga/behema?style=social"/> : Spiking neural network implementation inspired by cellular automata for efficiency.
 
@@ -107,7 +107,7 @@
 
   - [ANNarchy](https://github.com/ANNarchy/ANNarchy) <img src="https://img.shields.io/github/stars/ANNarchy/ANNarchy?style=social"/> : "ANNarchy: a code generation approach to neural simulations on parallel hardware". (**[Frontiers in Neuroinformatics 2015](https://www.frontiersin.org/articles/10.3389/fninf.2015.00019/full)**)
 
-  - [Real-Spike](https://github.com/yfguo91/Real-Spike) <img src="https://img.shields.io/github/stars/yfguo91/Real-Spike?style=social"/> : "Real Spike: Learning Real-valued Spikes for Spiking Neural Networks". (**[ECCV 2022]**)
+  - [Real-Spike](https://github.com/yfguo91/Real-Spike) <img src="https://img.shields.io/github/stars/yfguo91/Real-Spike?style=social"/> : "Real Spike: Learning Real-valued Spikes for Spiking Neural Networks". (ECCV 2022)
 
   - [Spike-Element-Wise-ResNet](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) <img src="https://img.shields.io/github/stars/fangwei123456/Spike-Element-Wise-ResNet?style=social"/> : "Deep residual learning in spiking neural networks". (**[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)**)
 
