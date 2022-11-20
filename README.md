@@ -14,6 +14,7 @@
     - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
     - [Audio Processing](#audio-processing)
     - [Event-Based Application](#event-based-application)
+  - [Blogs](#blogs)
 
 ## Review
 
@@ -164,3 +165,18 @@
     - [uzh-rpg/snn_angular_velocity](https://github.com/uzh-rpg/snn_angular_velocity) <img src="https://img.shields.io/github/stars/uzh-rpg/snn_angular_velocity?style=social"/> : "Event-Based Angular Velocity Regression with Spiking Networks". (**[ICRA 2020](https://ieeexplore.ieee.org/abstract/document/9197133)**)
 
 
+## Blogs
+
+  - 微信公众号「智能的本质与未来」
+    - [类脑认知智能引擎“智脉”：全脉冲神经网络的新一代人工智能开源平台](https://mp.weixin.qq.com/s/nfF1BYIL7ktvHRKDuKBTNQ)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第1期 BrainCog系统部署](https://mp.weixin.qq.com/s/fX-S3fKKDfR3NV4ISAHrZg)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第2期 脉冲神经元计算建模](https://mp.weixin.qq.com/s/pCdlbkrdnMNHj7wcwi9D2Q)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第3期 高效构建脉冲神经网络](https://mp.weixin.qq.com/s/NIz7MSAOJQ79m97hkP3HVg)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第4期 构建脑区的认知脉冲神经网络模型](https://mp.weixin.qq.com/s/K0pY6V8TupJgYXH4WvS9jg)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第5期 BrainCog系统功能进阶](https://mp.weixin.qq.com/s/ywgQ5ydQxr6W7d_Y_XqC6w)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第6期 用BrainGog实现深度强化学习脉冲神经网络](https://mp.weixin.qq.com/s/Zt78vj_sKn5jffEyeh86Cw)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第7期 用BrainGog实现受量子叠加态启发的脉冲序列时空编码](https://mp.weixin.qq.com/s/YVNkwDwuF9FG-YqQyd3KTg)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第8期 用BrainCog实现从人工神经网络到​脉冲神经网络的转换](https://mp.weixin.qq.com/s/4g8WBoa4SOcb_VQ24wO-Xw)
+    - [【智脉说】类脑认知引擎Braincog基础 第9期 用Braincog实现全局反馈连接脉冲神经网络](https://mp.weixin.qq.com/s/-AS0BihlXdFwCt1hgzFx3g)
+    - [【智脉说】类脑认知引擎Braincog基础 第10期 用Braincog实现多脑区协同的类脑自主决策脉冲神经网络](https://mp.weixin.qq.com/s/dltOGjhUZ9yTzSssIvkhtA)
+    - [【智脉说】类脑认知引擎Braincog基础 第11期 用Braincog实现类脑脉冲神经网络高效时空调节训练](https://mp.weixin.qq.com/s/6ZtaWtiY9K96UhVnvhfP7w)
