@@ -193,3 +193,4 @@
     - [【智脉说】类脑认知引擎Braincog基础 第9期 用Braincog实现全局反馈连接脉冲神经网络](https://mp.weixin.qq.com/s/-AS0BihlXdFwCt1hgzFx3g)
     - [【智脉说】类脑认知引擎Braincog基础 第10期 用Braincog实现多脑区协同的类脑自主决策脉冲神经网络](https://mp.weixin.qq.com/s/dltOGjhUZ9yTzSssIvkhtA)
     - [【智脉说】类脑认知引擎Braincog基础 第11期 用Braincog实现类脑脉冲神经网络高效时空调节训练](https://mp.weixin.qq.com/s/6ZtaWtiY9K96UhVnvhfP7w)
+    - [【智脉说】类脑认知引擎Braincog基础 第12期 用Braincog实现基于脉冲时序依赖可塑性的无监督脉冲神经网络](https://mp.weixin.qq.com/s/ra2muKQ4BOnd5upFEIdQTw)
