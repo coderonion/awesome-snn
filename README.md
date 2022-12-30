@@ -28,6 +28,8 @@
 
   - [TheAwesomeAndy/Awesome_SNN_Reads](https://github.com/TheAwesomeAndy/Awesome_SNN_Reads) <img src="https://img.shields.io/github/stars/TheAwesomeAndy/Awesome_SNN_Reads?style=social"/> : A list of little and big reads about SNN's. 
 
+  - [SpikingChen/SNN-Daily-Arxiv](https://github.com/SpikingChen/SNN-Daily-Arxiv) <img src="https://img.shields.io/github/stars/SpikingChen/SNN-Daily-Arxiv?style=social"/> : Update arXiv papers about Spiking Neural Networks daily.
+
   - [shenhaibo123/SNN_arxiv_daily](https://github.com/shenhaibo123/SNN_arxiv_daily) <img src="https://img.shields.io/github/stars/shenhaibo123/SNN_arxiv_daily?style=social"/> : SNN_arxiv_daily.
 
   - "Advances in spike vision". "脉冲视觉研究进展". (**[中国图象图形学报 2022](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZGTB202206006&uniplatform=NZKPT&v=1SpBEdioSKuEkmX33l-qeXciGOojmZIKjTSz1zgE9as8bUPvlctiRNCrJ4biYEi8)**)
@@ -130,7 +132,7 @@
 
   - [ShahriarSS/Spyker](https://github.com/ShahriarSS/Spyker) <img src="https://img.shields.io/github/stars/ShahriarSS/Spyker?style=social"/> : High-performance Spiking Neural Networks Library Written From Scratch with C++ and Python Interfaces. 
 
-
+  - [STSC-SNN](https://github.com/Tab-ct/STSC-SNN) <img src="https://img.shields.io/github/stars/Tab-ct/STSC-SNN?style=social"/> : "STSC-SNN: Spatio-Temporal Synaptic Connection with temporal convolution and attention for spiking neural networks". (**[Frontiers in Neuroscience, 2022](https://arxiv.org/abs/2210.05241)**)
 
   
 
@@ -196,3 +198,4 @@
     - [【智脉说】类脑认知引擎Braincog基础 第12期 用Braincog实现基于脉冲时序依赖可塑性的无监督脉冲神经网络](https://mp.weixin.qq.com/s/v_svhQ0N3JAYo1l8NQ1W1w)
     - [【智脉说】类脑认知引擎Braincog基础 第13期 用Braincog实现基于群体编码机制启发的符号表征与推理](https://mp.weixin.qq.com/s/UXc5QDbg8tUKVU3L6dhvxw)
     - [【智脉说】类脑认知引擎Braincog基础 第14期 实现基于脉冲神经网络的多感觉融合概念学习](https://mp.weixin.qq.com/s/s9gXF5NkPUGXkcFAFtsCMw)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第15期 用Braincog实现基于脉冲神经网络的音乐记忆与创作模型](https://mp.weixin.qq.com/s/y-t9rFEXYSmI_-rnVk_usw)
