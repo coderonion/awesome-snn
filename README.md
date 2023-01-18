@@ -199,3 +199,6 @@
     - [【智脉说】类脑认知引擎Braincog基础 第13期 用Braincog实现基于群体编码机制启发的符号表征与推理](https://mp.weixin.qq.com/s/UXc5QDbg8tUKVU3L6dhvxw)
     - [【智脉说】类脑认知引擎Braincog基础 第14期 实现基于脉冲神经网络的多感觉融合概念学习](https://mp.weixin.qq.com/s/s9gXF5NkPUGXkcFAFtsCMw)
     - [【智脉说】类脑认知智能引擎BrainCog基础 第15期 用Braincog实现基于脉冲神经网络的音乐记忆与创作模型](https://mp.weixin.qq.com/s/y-t9rFEXYSmI_-rnVk_usw)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第16期 用Braincog实现基于脉冲神经网络的类脑身体自我感知模型](https://mp.weixin.qq.com/s/RLbS3GmhE8ScyZTKJKl_SQ)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第17期 类脑心理揣测模型以及其在帮助其他智能体避免安全风险任务中的应用](https://mp.weixin.qq.com/s/xzFF6IK86W4h2CMs7jt7Xw)
+    - [类脑认知智能引擎“智脉BrainCog”半岁了：最新研究进展与研发社区建设](https://mp.weixin.qq.com/s/NO4zFDIVtQdndvc4c01dDQ)
