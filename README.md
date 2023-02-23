@@ -14,6 +14,7 @@
     - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
     - [Audio Processing](#audio-processing)
     - [Event-Based Application](#event-based-application)
+    - [Hardware Deployment](#hardware-deployment)
   - [Blogs](#blogs)
 
 ## Review
@@ -180,6 +181,15 @@
     - [uzh-rpg/snn_angular_velocity](https://github.com/uzh-rpg/snn_angular_velocity) <img src="https://img.shields.io/github/stars/uzh-rpg/snn_angular_velocity?style=social"/> : "Event-Based Angular Velocity Regression with Spiking Networks". (**[ICRA 2020](https://ieeexplore.ieee.org/abstract/document/9197133)**)
 
 
+
+  - ### Hardware Deployment
+
+    - [metr0jw/Spiking-Neural-Network-on-FPGA](https://github.com/metr0jw/Spiking-Neural-Network-on-FPGA) <img src="https://img.shields.io/github/stars/metr0jw/Spiking-Neural-Network-on-FPGA?style=social"/> : Leaky Integrate and Fire (LIF) model implementation for FPGA.
+
+
+
+
+
 ## Blogs
 
   - 微信公众号「智能的本质与未来」
@@ -202,3 +212,7 @@
     - [【智脉说】类脑认知智能引擎BrainCog基础 第16期 用Braincog实现基于脉冲神经网络的类脑身体自我感知模型](https://mp.weixin.qq.com/s/RLbS3GmhE8ScyZTKJKl_SQ)
     - [【智脉说】类脑认知智能引擎BrainCog基础 第17期 类脑心理揣测模型以及其在帮助其他智能体避免安全风险任务中的应用](https://mp.weixin.qq.com/s/xzFF6IK86W4h2CMs7jt7Xw)
     - [类脑认知智能引擎“智脉BrainCog”半岁了：最新研究进展与研发社区建设](https://mp.weixin.qq.com/s/NO4zFDIVtQdndvc4c01dDQ)
+    - [从认知脑的计算模拟到类脑人工智能](https://mp.weixin.qq.com/s/ATZ8Bjq7nUOH5E-2EE9JGQ)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第18期 用BrainCog实现前额叶功能柱模型在工作记忆任务中的应用](https://mp.weixin.qq.com/s/E6pb5W0Q4noK72NGf4SNGQ)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第19期 用BrainCog实现多脑区协同的类脑情感共情脉冲神经网络](https://mp.weixin.qq.com/s/xUnal4I5tM-Rl49fu0ZRVw)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第20期 用BrainCog实现发育可塑性的脉冲神经网络自适应剪枝](https://mp.weixin.qq.com/s/-F0XcIovI1WY6YyoO5P58Q)
