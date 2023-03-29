@@ -218,3 +218,4 @@
     - [【智脉说】类脑认知智能引擎BrainCog基础 第20期 用BrainCog实现发育可塑性的脉冲神经网络自适应剪枝](https://mp.weixin.qq.com/s/-F0XcIovI1WY6YyoO5P58Q)
     - [【智脉说】类脑认知智能引擎BrainCog基础 第21期 用Braincog实现基于约束、剪枝和再生的脉冲神经网络动态结构发育](https://mp.weixin.qq.com/s/n1EK6lddriS0dnSgfdsa8w)
     - [【智脉说】类脑认知智能引擎BrainCog基础 第22期 BrainCog数据引擎之时空序列数据N-Omniglot及其应用](https://mp.weixin.qq.com/s/VIzDb2kn_4LUyUh0qc2j4w)
+    - [【智脉说】类脑认知智能引擎BrainCog基础 第23期 用BrainCog实现用于目标检测和语义分割的脉冲神经网络](https://mp.weixin.qq.com/s/fyf_cbzH_i1_ZEFWTSH81Q)
