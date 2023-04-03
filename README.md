@@ -135,7 +135,10 @@
 
   - [STSC-SNN](https://github.com/Tab-ct/STSC-SNN) <img src="https://img.shields.io/github/stars/Tab-ct/STSC-SNN?style=social"/> : "STSC-SNN: Spatio-Temporal Synaptic Connection with temporal convolution and attention for spiking neural networks". (**[Frontiers in Neuroscience, 2022](https://arxiv.org/abs/2210.05241)**)
 
-  
+  - [michaelmelanson/spiking-neural-net](https://github.com/michaelmelanson/spiking-neural-net) <img src="https://img.shields.io/github/stars/michaelmelanson/spiking-neural-net?style=social"/> : A spiking neural network simulation library.  
+
+
+
 
 ## Applications
 
