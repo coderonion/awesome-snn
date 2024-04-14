@@ -9,6 +9,7 @@
   - [Frameworks](#frameworks)
   - [Datasets](#datasets)
   - [Applications](#applications)
+    - [Attention and Transformer](#attention-and-transformer)
     - [Object Detection](#object-detection)
     - [Object Recognition](#object-recognition)
     - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
@@ -19,15 +20,15 @@
 
 ## Review
 
-  - [uzh-rpg/event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources) <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources. 
+  - [uzh-rpg/event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources) <img src="https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources?style=social"/> : Event-based Vision Resources.
 
-  - [XDUSPONGE/SNN_benchmark](https://github.com/XDUSPONGE/SNN_benchmark) <img src="https://img.shields.io/github/stars/XDUSPONGE/SNN_benchmark?style=social"/> : Spiking Neural Network Paper List. 
+  - [XDUSPONGE/SNN_benchmark](https://github.com/XDUSPONGE/SNN_benchmark) <img src="https://img.shields.io/github/stars/XDUSPONGE/SNN_benchmark?style=social"/> : Spiking Neural Network Paper List.
 
-  - [amirHossein-Ebrahimi/awesome-computational-neuro-science](https://github.com/amirHossein-Ebrahimi/awesome-computational-neuro-science) <img src="https://img.shields.io/github/stars/amirHossein-Ebrahimi/awesome-computational-neuro-science?style=social"/> : A curated list of awesome Go frameworks, libraries, and software + First class pure python Tutorial Series for Spiking Neural Networks 🔥. 
+  - [amirHossein-Ebrahimi/awesome-computational-neuro-science](https://github.com/amirHossein-Ebrahimi/awesome-computational-neuro-science) <img src="https://img.shields.io/github/stars/amirHossein-Ebrahimi/awesome-computational-neuro-science?style=social"/> : A curated list of awesome Go frameworks, libraries, and software + First class pure python Tutorial Series for Spiking Neural Networks 🔥.
 
-  - [vvvityaaa/awesome-spiking-neural-networks](https://github.com/vvvityaaa/awesome-spiking-neural-networks) <img src="https://img.shields.io/github/stars/vvvityaaa/awesome-spiking-neural-networks?style=social"/> : A curated list of materials for Spiking Neural Networks, 3rd generation of artificial neural networks. 
+  - [vvvityaaa/awesome-spiking-neural-networks](https://github.com/vvvityaaa/awesome-spiking-neural-networks) <img src="https://img.shields.io/github/stars/vvvityaaa/awesome-spiking-neural-networks?style=social"/> : A curated list of materials for Spiking Neural Networks, 3rd generation of artificial neural networks.
 
-  - [TheAwesomeAndy/Awesome_SNN_Reads](https://github.com/TheAwesomeAndy/Awesome_SNN_Reads) <img src="https://img.shields.io/github/stars/TheAwesomeAndy/Awesome_SNN_Reads?style=social"/> : A list of little and big reads about SNN's. 
+  - [TheAwesomeAndy/Awesome_SNN_Reads](https://github.com/TheAwesomeAndy/Awesome_SNN_Reads) <img src="https://img.shields.io/github/stars/TheAwesomeAndy/Awesome_SNN_Reads?style=social"/> : A list of little and big reads about SNN's.
 
   - [SpikingChen/SNN-Daily-Arxiv](https://github.com/SpikingChen/SNN-Daily-Arxiv) <img src="https://img.shields.io/github/stars/SpikingChen/SNN-Daily-Arxiv?style=social"/> : Update arXiv papers about Spiking Neural Networks daily.
 
@@ -43,9 +44,9 @@
 
 ## Frameworks
 
-  - [惊蜇(SpikingJelly)](https://github.com/fangwei123456/spikingjelly) <img src="https://img.shields.io/github/stars/fangwei123456/spikingjelly?style=social"/> : SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch. SpikingJelly 是一个基于 PyTorch，使用脉冲神经网络(Spiking Neural Network, SNN)进行深度学习的框架。[spikingjelly.readthedocs.io](https://spikingjelly.readthedocs.io/zh_CN/latest/)
+  - [SpikingJelly | 惊蜇](https://github.com/fangwei123456/spikingjelly) <img src="https://img.shields.io/github/stars/fangwei123456/spikingjelly?style=social"/> : SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch. SpikingJelly 是一个基于 PyTorch，使用脉冲神经网络(Spiking Neural Network, SNN)进行深度学习的框架。[spikingjelly.readthedocs.io](https://spikingjelly.readthedocs.io/zh_CN/latest/)
 
-  - [智脉(BrainCog)](https://github.com/BrainCog-X/Brain-Cog) <img src="https://img.shields.io/github/stars/BrainCog-X/Brain-Cog?style=social"/> : BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. More information on braincog can be found on its homepage http://www.brain-cog.network/. "BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation". (**[arXiv 2022](https://arxiv.org/abs/2207.08533)**)
+  - [BrainCog | 智脉](https://github.com/BrainCog-X/Brain-Cog) <img src="https://img.shields.io/github/stars/BrainCog-X/Brain-Cog?style=social"/> : BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. More information on braincog can be found on its homepage http://www.brain-cog.network/. "BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation". (**[arXiv 2022](https://arxiv.org/abs/2207.08533)**)
 
   - [NCPs](https://github.com/mlech26l/ncps) <img src="https://img.shields.io/github/stars/mlech26l/ncps?style=social"/> : PyTorch and TensorFlow implementation of NCP, LTC, and CfC wired neural models. "Neural circuit policies enabling auditable autonomy". (**[Nature Machine Intelligence, 2020](https://www.nature.com/articles/s42256-020-00237-3)**)
 
@@ -75,7 +76,7 @@
 
   - [slayerPytorch](https://github.com/bamsumit/slayerPytorch) <img src="https://img.shields.io/github/stars/bamsumit/slayerPytorch?style=social"/> : PyTorch implementation of SLAYER for training Spiking Neural Networks . "Slayer: Spike layer error reassignment in time". (**[NeurIPS 2018](https://proceedings.neurips.cc/paper/2018/hash/82f2b308c3b01637c607ce05f52a2fed-Abstract.html)**)
 
-  - [Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP](https://github.com/guillaume-chevalier/Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP) <img src="https://img.shields.io/github/stars/guillaume-chevalier/Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP?style=social"/> : Spiking Neural Network (SNN) with PyTorch : towards bridging the gap between deep learning and the human brain.  
+  - [Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP](https://github.com/guillaume-chevalier/Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP) <img src="https://img.shields.io/github/stars/guillaume-chevalier/Spiking-Neural-Network-SNN-with-PyTorch-where-Backpropagation-engenders-STDP?style=social"/> : Spiking Neural Network (SNN) with PyTorch : towards bridging the gap between deep learning and the human brain.
 
   - [PySNN](https://github.com/BasBuller/PySNN) <img src="https://img.shields.io/github/stars/BasBuller/PySNN?style=social"/> : Efficient Spiking Neural Network framework, built on top of PyTorch for GPU acceleration.
 
@@ -83,7 +84,7 @@
 
   - [thiswinex/STBP-simple](https://github.com/thiswinex/STBP-simple) <img src="https://img.shields.io/github/stars/thiswinex/STBP-simple?style=social"/> : A simple direct training implement for SNNs using Spatio-Temporal Backpropagation.
 
-  - [ZLkanyo009/STBP-train-and-compression](https://github.com/ZLkanyo009/STBP-train-and-compression) <img src="https://img.shields.io/github/stars/ZLkanyo009/STBP-train-and-compression?style=social"/> : STBP is a way to train SNN with datasets by Backward propagation.Using this Repositories allows you to train SNNS with STBP and quantize SNNS with QAT to deploy to neuromorphological chips like Loihi and Tianjic.  
+  - [ZLkanyo009/STBP-train-and-compression](https://github.com/ZLkanyo009/STBP-train-and-compression) <img src="https://img.shields.io/github/stars/ZLkanyo009/STBP-train-and-compression?style=social"/> : STBP is a way to train SNN with datasets by Backward propagation.Using this Repositories allows you to train SNNS with STBP and quantize SNNS with QAT to deploy to neuromorphological chips like Loihi and Tianjic.
 
   - [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) <img src="https://img.shields.io/github/stars/ZhejianglabNCRC/SPAIC?style=social"/> : Spike-based artificial intelligence computing platform. "Darwin-S: A Reference Software Architecture for Brain-Inspired Computers". (**[IEEE Computer 2022](https://ieeexplore.ieee.org/abstract/document/9771131)**)
 
@@ -95,7 +96,7 @@
 
   - [Brain-Cog-Lab/BP-STA](https://github.com/Brain-Cog-Lab/BP-STA) <img src="https://img.shields.io/github/stars/Brain-Cog-Lab/BP-STA?style=social"/> : "Backpropagation with Biologically Plausible Spatio-Temporal Adjustment For Training Deep Spiking Neural Networks". (**[Cell Patterns 2022](https://www.sciencedirect.com/science/article/pii/S2666389922001192)**)
 
-  - [Borzyszkowski/SNN-CMS](https://github.com/Borzyszkowski/SNN-CMS) <img src="https://img.shields.io/github/stars/Borzyszkowski/SNN-CMS?style=social"/> : Spiking Neural Networks accelerated on the Intel Loihi chips for LHC experiments, at CMS detector. Project of the European Organization for Nuclear Research (CERN) in collaboration with Intel Labs. 
+  - [Borzyszkowski/SNN-CMS](https://github.com/Borzyszkowski/SNN-CMS) <img src="https://img.shields.io/github/stars/Borzyszkowski/SNN-CMS?style=social"/> : Spiking Neural Networks accelerated on the Intel Loihi chips for LHC experiments, at CMS detector. Project of the European Organization for Nuclear Research (CERN) in collaboration with Intel Labs.
 
   - [TJXTT/SNN2ANN](https://github.com/TJXTT/SNN2ANN) <img src="https://img.shields.io/github/stars/TJXTT/SNN2ANN?style=social"/> : "SNN2ANN: A Fast and Memory-Efficient Training Framework for Spiking Neural Networks". (**[arXiv 2022](https://arxiv.org/abs/2206.09449)**)
 
@@ -109,15 +110,15 @@
 
   - [Mathorga/behema](https://github.com/Mathorga/behema) <img src="https://img.shields.io/github/stars/Mathorga/behema?style=social"/> : Spiking neural network implementation inspired by cellular automata for efficiency.
 
-  - [synsense/rockpool](https://github.com/synsense/rockpool) <img src="https://img.shields.io/github/stars/synsense/rockpool?style=social"/> : A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware. 
+  - [synsense/rockpool](https://github.com/synsense/rockpool) <img src="https://img.shields.io/github/stars/synsense/rockpool?style=social"/> : A machine learning library for spiking neural networks. Supports training with both torch and jax pipelines, and deployment to neuromorphic hardware.
 
-  - [Sinabs](https://github.com/synsense/sinabs) <img src="https://img.shields.io/github/stars/synsense/sinabs?style=social"/> : Spiking neural network library based on PyTorch.  
+  - [Sinabs](https://github.com/synsense/sinabs) <img src="https://img.shields.io/github/stars/synsense/sinabs?style=social"/> : Spiking neural network library based on PyTorch.
 
   - [MungoMeng/Spiking-Inception](https://github.com/MungoMeng/Spiking-Inception) <img src="https://img.shields.io/github/stars/MungoMeng/Spiking-Inception?style=social"/> : A Spiking Inception architecture for unsupervised Spiking Neural Networks (SNNs). "High-parallelism Inception-like Spiking Neural Networks for Unsupervised Feature Learning". (**[Neurocomputing 2021](https://www.sciencedirect.com/science/article/abs/pii/S0925231221002733)**). "Spiking Inception Module for Multi-layer Unsupervised Spiking Neural Networks". (**[IJCNN 2020](https://ieeexplore.ieee.org/abstract/document/9207161)**).
 
   - [BioLCNet](https://github.com/Singular-Brain/BioLCNet) <img src="https://img.shields.io/github/stars/Singular-Brain/BioLCNet?style=social"/> : "BioLCNet: Reward-modulated Locally Connected Spiking Neural Networks". (**[arXiv 2021](https://arxiv.org/abs/2109.05539)**)
 
-  - [aggelen/Spayk](https://github.com/aggelen/Spayk) <img src="https://img.shields.io/github/stars/aggelen/Spayk?style=social"/> : An open source environment for spiking neural networks. 
+  - [aggelen/Spayk](https://github.com/aggelen/Spayk) <img src="https://img.shields.io/github/stars/aggelen/Spayk?style=social"/> : An open source environment for spiking neural networks.
 
   - [ANNarchy](https://github.com/ANNarchy/ANNarchy) <img src="https://img.shields.io/github/stars/ANNarchy/ANNarchy?style=social"/> : "ANNarchy: a code generation approach to neural simulations on parallel hardware". (**[Frontiers in Neuroinformatics 2015](https://www.frontiersin.org/articles/10.3389/fninf.2015.00019/full)**)
 
@@ -131,13 +132,13 @@
 
   - [zhouyanasd/DL-NC](https://github.com/zhouyanasd/DL-NC) <img src="https://img.shields.io/github/stars/zhouyanasd/DL-NC?style=social"/> : spiking-neural-networks.
 
-  - [ShahriarSS/Spyker](https://github.com/ShahriarSS/Spyker) <img src="https://img.shields.io/github/stars/ShahriarSS/Spyker?style=social"/> : High-performance Spiking Neural Networks Library Written From Scratch with C++ and Python Interfaces. 
+  - [ShahriarSS/Spyker](https://github.com/ShahriarSS/Spyker) <img src="https://img.shields.io/github/stars/ShahriarSS/Spyker?style=social"/> : High-performance Spiking Neural Networks Library Written From Scratch with C++ and Python Interfaces.
 
   - [STSC-SNN](https://github.com/Tab-ct/STSC-SNN) <img src="https://img.shields.io/github/stars/Tab-ct/STSC-SNN?style=social"/> : "STSC-SNN: Spatio-Temporal Synaptic Connection with temporal convolution and attention for spiking neural networks". (**[Frontiers in Neuroscience, 2022](https://arxiv.org/abs/2210.05241)**)
 
-  - [michaelmelanson/spiking-neural-net](https://github.com/michaelmelanson/spiking-neural-net) <img src="https://img.shields.io/github/stars/michaelmelanson/spiking-neural-net?style=social"/> : A spiking neural network simulation library.  
+  - [michaelmelanson/spiking-neural-net](https://github.com/michaelmelanson/spiking-neural-net) <img src="https://img.shields.io/github/stars/michaelmelanson/spiking-neural-net?style=social"/> : A spiking neural network simulation library.
 
-  - [STSC-SNN](https://github.com/INM-6/multi-area-model) <img src="https://img.shields.io/github/stars/INM-6/multi-area-model?style=social"/> : Multi-scale spiking network model of macaque visual cortex. "Multi-scale account of the network structure of macaque visual cortex". (**[Brain Structure and Function, 2018](https://link.springer.com/article/10.1007/s00429-017-1554-4)**). "A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas". (**[PLOS Computational Biology, 2018](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006359)**). 
+  - [STSC-SNN](https://github.com/INM-6/multi-area-model) <img src="https://img.shields.io/github/stars/INM-6/multi-area-model?style=social"/> : Multi-scale spiking network model of macaque visual cortex. "Multi-scale account of the network structure of macaque visual cortex". (**[Brain Structure and Function, 2018](https://link.springer.com/article/10.1007/s00429-017-1554-4)**). "A multi-scale layer-resolved spiking network model of resting-state dynamics in macaque visual cortical areas". (**[PLOS Computational Biology, 2018](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006359)**).
 
 
 
@@ -145,7 +146,20 @@
 
 ## Applications
 
+  - ### Attention and Transformer
+
+    - [Attention-SNN](https://github.com/BICLab/Attention-SNN) <img src="https://img.shields.io/github/stars/BICLab/Attention-SNN?style=social"/> : Offical implementation of "Attention Spiking Neural Networks" (**[IEEE TPAMI 2023](https://ieeexplore.ieee.org/abstract/document/10032591)**)
+
+    - [Spike-Driven-Transformer](https://github.com/BICLab/Spike-Driven-Transformer) <img src="https://img.shields.io/github/stars/BICLab/Spike-Driven-Transformer?style=social"/> : Offical implementation of "Spike-driven Transformer" (**[NeurIPS 2023](https://openreview.net/forum?id=9FmolyOHi5)**)
+
+    - [Spike-Driven-Transformer-V2](https://github.com/BICLab/Spike-Driven-Transformer-V2) <img src="https://img.shields.io/github/stars/BICLab/Spike-Driven-Transformer-V2?style=social"/> : Offical implementation of "Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips" (**[ICLR 2024](https://openreview.net/forum?id=1SIBN5Xyw7)**)
+
+
+
+
   - ### Object Detection
+
+    - [EMS-YOLO](https://github.com/BICLab/EMS-YOLO) <img src="https://img.shields.io/github/stars/BICLab/EMS-YOLO?style=social"/> : Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (**[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Deep_Directly-Trained_Spiking_Neural_Networks_for_Object_Detection_ICCV_2023_paper.html)**)
 
     - [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) <img src="https://img.shields.io/github/stars/cwq159/PyTorch-Spiking-YOLOv3?style=social"/> : A PyTorch implementation of Spiking-YOLOv3. Two branches are provided, based on two common PyTorch implementation of YOLOv3([ultralytics/yolov3](https://github.com/ultralytics/yolov3) & [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)), with support for Spiking-YOLOv3-Tiny at present. (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6787)**)
 
@@ -156,8 +170,8 @@
     - [Dignity-ghost/PyTorch-Spiking-YOLOv3](https://github.com/Dignity-ghost/PyTorch-Spiking-YOLOv3) <img src="https://img.shields.io/github/stars/Dignity-ghost/PyTorch-Spiking-YOLOv3?style=social"/> : A modified repository based on [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) and [YOLOv3](https://pjreddie.com/darknet/yolo), which makes it suitable for VOC-dataset and YOLOv2.
 
     - [beauty-girl-cxy/spiking-yolov5](https://github.com/beauty-girl-cxy/spiking-yolov5) <img src="https://img.shields.io/github/stars/beauty-girl-cxy/spiking-yolov5?style=social"/> : spiking-yolov5.
-    
-    - [arsalikhov/PSYCH420_final_project](https://github.com/arsalikhov/PSYCH420_final_project) <img src="https://img.shields.io/github/stars/arsalikhov/PSYCH420_final_project?style=social"/> : Goal of the project is to train an Object-Detection model using Spiking Neural Network on COCO dataset. 
+
+    - [arsalikhov/PSYCH420_final_project](https://github.com/arsalikhov/PSYCH420_final_project) <img src="https://img.shields.io/github/stars/arsalikhov/PSYCH420_final_project?style=social"/> : Goal of the project is to train an Object-Detection model using Spiking Neural Network on COCO dataset.
 
     - [loiccordone/object-detection-with-spiking-neural-networks](https://github.com/loiccordone/object-detection-with-spiking-neural-networks) <img src="https://img.shields.io/github/stars/loiccordone/object-detection-with-spiking-neural-networks?style=social"/> : "Object Detection with Spiking Neural Networks on Automotive Event Data". (**[IJCNN 2022](https://arxiv.org/abs/2205.04339)**)
 
