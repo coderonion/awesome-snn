@@ -13,7 +13,7 @@
     - [Object Detection](#object-detection)
     - [Object Recognition](#object-recognition)
     - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
-    - [Audio Processing](#audio-processing)
+    - [Speech and Audio Field](#speech-and-audio-field)
     - [Event-Based Application](#event-based-application)
     - [Hardware Deployment](#hardware-deployment)
   - [Blogs](#blogs)
@@ -188,11 +188,14 @@
     - [ssharmin/spikingNN-adversarial-attack](https://github.com/ssharmin/spikingNN-adversarial-attack) <img src="https://img.shields.io/github/stars/ssharmin/spikingNN-adversarial-attack?style=social"/> : FGSM and PGD adversarial attack on Spiking Neural Network (SNN).
 
 
-  - ### Audio Processing
+  - ### Speech and Audio Field
+
+    - [flinkerlab/neural_speech_decoding](https://github.com/flinkerlab/neural_speech_decoding) <img src="https://img.shields.io/github/stars/flinkerlab/neural_speech_decoding?style=social"/> : Neural Speech Decoding. "A neural speech decoding framework leveraging deep learning and speech synthesis". (**[Nature, 2024](https://www.nature.com/articles/s42256-024-00824-8)**). "微信公众号「量子位」《[脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://mp.weixin.qq.com/s/BcV3-3glmdsVF--fpPRU2g)》"。
 
     - [comob-project/snn-sound-localization](https://github.com/comob-project/snn-sound-localization) <img src="https://img.shields.io/github/stars/comob-project/snn-sound-localization?style=social"/> : Training spiking neural networks for sound localization.
 
-    - [pyNAVIS](https://github.com/jpdominguez/pyNAVIS) <img src="https://img.shields.io/github/stars/jpdominguez/pyNAVIS?style=social"/> : "PyNAVIS: An open-source cross-platform software for spike-based neuromorphic audio information processing". (**[Neurocomputing 2021](https://www.sciencedirect.com/science/article/abs/pii/S0925231221005130)**)
+    - [pyNAVIS](https://github.com/jpdominguez/pyNAVIS) <img src="https://img.shields.io/github/stars/jpdominguez/pyNAVIS?style=social"/> : "PyNAVIS: An open-source cross-platform software for spike-based neuromorphic audio information processing". (**[Neurocomputing, 2021](https://www.sciencedirect.com/science/article/abs/pii/S0925231221005130)**)
+
 
 
 
@@ -242,3 +245,7 @@
     - [2023-04-14，【智脉说】类脑认知智能引擎BrainCog基础 第24期 用BrainCog实现EventMix 针对DVS数据的增强策略](https://mp.weixin.qq.com/s/BNMZ_oQK9Foui2zcnKWYgg)
   - 微信公众号「图灵人工智能」
     - [2023-05-06，神经科学的深度学习框架](https://mp.weixin.qq.com/s/EJNcVMhx63wTiCjfsT43Gg)
+  - 微信公众号「蜂耘网」
+    - [2024-04-19，类脑AI新时代——全球最大神经拟态系统诞生了！](https://mp.weixin.qq.com/s/I59_0WWdUSb9yyUTBup8qA)
+  - 微信公众号「量子位」
+    - [2024-04-17，脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://mp.weixin.qq.com/s/BcV3-3glmdsVF--fpPRU2g)
