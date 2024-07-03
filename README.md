@@ -249,3 +249,21 @@
     - [2024-04-19，类脑AI新时代——全球最大神经拟态系统诞生了！](https://mp.weixin.qq.com/s/I59_0WWdUSb9yyUTBup8qA)
   - 微信公众号「量子位」
     - [2024-04-17，脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://mp.weixin.qq.com/s/BcV3-3glmdsVF--fpPRU2g)
+  - 微信公众号「AI Energy」
+    - [2023-10-07，Science Advances | SpikingJelly：基于尖峰智能的开源机器学习基础平台](https://mp.weixin.qq.com/s/HZAruFdXW6uWaZGR9jUAGA)
+  - 微信公众号「数据派THU」
+    - [2024-06-30，「千脑计划」启动，模仿人类大脑皮层，开发全新AI，盖茨资助](https://mp.weixin.qq.com/s/m5QaD98tVRaHY_4Lc5IqIw)
+  - 微信公众号「深观启元」
+    - [2024-06-20，浅谈脉冲神经网络（SNN）](https://mp.weixin.qq.com/s/at7wyg5P2m7XLUlDydDFLw)
+  - 微信公众号「算力猩」
+    - [2022-05-09，中科院自动化所研究员李国齐：类脑计算的前世今生](https://mp.weixin.qq.com/s/AwU6qNLO2xjv5qi2PDOiSQ)
+  - 微信公众号「算力猩」
+    - [2023-10-19，深度学习框架重要突破！鹏城实验室田永鸿教授领衔，国产AI芯片成幕后功臣](https://mp.weixin.qq.com/s/Hdg7cEAvQEpgfHLcL-zZug)
+  - 微信公众号「中国科学院自动化研究所」
+    - [2023-11-21，脑科学如何启发AI，这场论坛带你全面探索「大脑网络与智能计算融合方式」](https://mp.weixin.qq.com/s/TLbVhLeKvrtBGZArSPblgA)
+  - 微信公众号「北京大学计算机学院」
+    - [2023-10-09，新闻丨北京大学计算机学院田永鸿课题组脉冲神经网络深度学习开源框架荣登Science子刊](https://mp.weixin.qq.com/s/Q4Qhy9SYZ34Dgo4EE7yclw)
+  - 微信公众号「北京大学计算机学院」
+    - [2024-03-16，科学家为脉冲神经网络引入新架构，为未来基于神经形态网络的超大模型奠定基础](https://mp.weixin.qq.com/s/nayHqKJoExYY6FQG1NGdPw)
+  - 微信公众号「智源社区」
+    - [2022-05-07，一文梳理类脑计算的前世今生 | 中科院自动化所研究员李国齐](https://mp.weixin.qq.com/s/9-FW5ZxJt4fthNhQI10qHA)
