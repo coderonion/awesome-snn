@@ -159,7 +159,16 @@
 
   - ### Object Detection
 
+    - [SpikeYOLO](https://github.com/BICLab/SpikeYOLO) <img src="https://img.shields.io/github/stars/BICLab/SpikeYOLO?style=social"/> :  Offical implementation of "Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection" (**[ECCV 2024 Oral](https://arxiv.org/abs/2407.20708)**)
+
+
     - [EMS-YOLO](https://github.com/BICLab/EMS-YOLO) <img src="https://img.shields.io/github/stars/BICLab/EMS-YOLO?style=social"/> : Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (**[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Deep_Directly-Trained_Spiking_Neural_Networks_for_Object_Detection_ICCV_2023_paper.html)**)
+
+    - [Attention-SNN](https://github.com/BICLab/Attention-SNN) <img src="https://img.shields.io/github/stars/BICLab/Attention-SNN?style=social"/> : Offical implementation of "Attention Spiking Neural Networks" (**[IEEE TPAMI 2023](https://ieeexplore.ieee.org/abstract/document/10032591)**)
+
+    - [Spike-Driven-Transformer](https://github.com/BICLab/Spike-Driven-Transformer) <img src="https://img.shields.io/github/stars/BICLab/Spike-Driven-Transformer?style=social"/> : Offical implementation of "Spike-driven Transformer" (**[NeurIPS 2023](https://openreview.net/forum?id=9FmolyOHi5)**)
+
+    - [Spike-Driven-Transformer-V2](https://github.com/BICLab/Spike-Driven-Transformer-V2) <img src="https://img.shields.io/github/stars/BICLab/Spike-Driven-Transformer-V2?style=social"/> : Offical implementation of "Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips" (**[ICLR 2024](https://openreview.net/forum?id=1SIBN5Xyw7)**)
 
     - [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) <img src="https://img.shields.io/github/stars/cwq159/PyTorch-Spiking-YOLOv3?style=social"/> : A PyTorch implementation of Spiking-YOLOv3. Two branches are provided, based on two common PyTorch implementation of YOLOv3([ultralytics/yolov3](https://github.com/ultralytics/yolov3) & [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)), with support for Spiking-YOLOv3-Tiny at present. (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6787)**)
 
