@@ -159,7 +159,7 @@
 
   - ### Object Detection
 
-    - [SpikeYOLO](https://github.com/BICLab/SpikeYOLO) <img src="https://img.shields.io/github/stars/BICLab/SpikeYOLO?style=social"/> :  Offical implementation of "Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection" (**[ECCV 2024 Oral](https://arxiv.org/abs/2407.20708)**)
+    - [SpikeYOLO](https://github.com/BICLab/SpikeYOLO) <img src="https://img.shields.io/github/stars/BICLab/SpikeYOLO?style=social"/> : Offical implementation of "Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection" (**[ECCV 2024 Oral](https://arxiv.org/abs/2407.20708)**)
 
 
     - [EMS-YOLO](https://github.com/BICLab/EMS-YOLO) <img src="https://img.shields.io/github/stars/BICLab/EMS-YOLO?style=social"/> : Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (**[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Deep_Directly-Trained_Spiking_Neural_Networks_for_Object_Detection_ICCV_2023_paper.html)**)
